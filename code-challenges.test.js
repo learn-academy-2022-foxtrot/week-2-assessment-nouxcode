@@ -31,7 +31,7 @@ const numbersArray2 = [24, 27, 30, 33, 36]
 // In order to create the fucntion that takes a object as an argument and decides if the number inside it is evenly divisible by three or not I will start by identifying the info that will go in the function. 
 // I recognize that the function will accept an object, and use comparison operators to decide if the value of said object is divisible by three.
 // I will declare a function called divisibleByThree which will accept an object as a parameter.
-// Next I'll make an empty variable which I'll call testVariable which will hold the array containing the value of the key value pair using the command Object.value().
+// Next I'll make an empty variable which I'll call testVariable which will hold the array containing the value of the key-value pair using the command Object.value().
 // Afterwards I'll establish a comparison operator to figure out if the value of the resulting array is divisible by three.
 // If the value of the array is divisible by three it will return `${testVariable} is divisible by three`, if it is not divisible by three it will return `${testVariable} is not divisible by three`, and I'll also include a catch all error message as well.
 
